@@ -1,0 +1,11 @@
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\bin\Debug\netcoreapp2.1\OrchestratorClient.deps.json
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\bin\Debug\netcoreapp2.1\OrchestratorClient.dll
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\obj\Debug\netcoreapp2.1\OrchestratorClient.csproj.CoreCompileInputs.cache
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\obj\Debug\netcoreapp2.1\OrchestratorClient.AssemblyInfoInputs.cache
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\obj\Debug\netcoreapp2.1\OrchestratorClient.AssemblyInfo.cs
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\bin\Debug\netcoreapp2.1\OrchestratorClient.pdb
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\obj\Debug\netcoreapp2.1\OrchestratorClient.dll
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\obj\Debug\netcoreapp2.1\OrchestratorClient.pdb
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\bin\Debug\netcoreapp2.1\OrchestratorClient.runtimeconfig.json
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\bin\Debug\netcoreapp2.1\OrchestratorClient.runtimeconfig.dev.json
+C:\Users\florin.mihalache\source\repos\OrchestratorClient\obj\Debug\netcoreapp2.1\OrchestratorClient.csprojAssemblyReference.cache
